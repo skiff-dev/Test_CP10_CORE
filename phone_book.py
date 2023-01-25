@@ -1,2 +1,3 @@
 class Phone:
-    pass
+    def add_phone(self, value):
+        self.value = value
