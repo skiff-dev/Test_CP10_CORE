@@ -1,3 +1,3 @@
 class Phone:
-    def __init__(self, value) -> None:
-        self.value = value
+    def add_phone(self, phone):
+        self.value = phone
